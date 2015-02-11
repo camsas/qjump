@@ -1,0 +1,3 @@
+[submodule "qjump-tc"]
+	path = qjump-tc
+	url = git@github.com:camsas/qjump-tc.git
