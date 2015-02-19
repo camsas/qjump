@@ -1,3 +1,7 @@
 [submodule "qjump-tc"]
 	path = qjump-tc
 	url = git@github.com:camsas/qjump-tc.git
+
+[submodule "qjump-app-util"]
+	path = qjump-app-util
+	url = git@github.com:camsas/qjump-app-util.git
